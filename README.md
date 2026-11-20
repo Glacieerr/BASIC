@@ -37,6 +37,8 @@ Java, standard library only.
 [MIT](LICENSE) © 2026 Canyuan Ye
 -->
 
+The code is my original coursework. In November 2026 Claude helped write this README and its header images, which is why Claude appears under Contributors.
+
 ---
 
-中文：课程项目，纽约州立大学奥尔巴尼分校计算机科学。用 Java 实现的 BASIC 语言解释器：词法分析、递归下降语法分析生成抽象语法树（AST）、解释执行。命令行入口是 `Basic.java`，输入一个 BASIC 源文件，打印词法分析得到的记号。仓库里没有自动化测试。
+中文：课程项目，纽约州立大学奥尔巴尼分校计算机科学。用 Java 实现的 BASIC 语言解释器：词法分析、递归下降语法分析生成抽象语法树（AST）、解释执行。命令行入口是 `Basic.java`，输入一个 BASIC 源文件，打印词法分析得到的记号。仓库里没有自动化测试。代码是我自己的课程作业；2026 年 11 月，Claude 帮忙写了这份 README 和头图，所以贡献者里有 Claude。
